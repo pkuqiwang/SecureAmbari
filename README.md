@@ -93,3 +93,6 @@ Now the url for Ambari is
 https://ambari_fqnd:8443
 ```
 You will get a warning will try access the url. Ignore and proceed.
+
+###Kerberos Ambari
+After Ambari 2.4, when you Kerberos the HDP cluster, Ambari will be Kerboros automatically.
